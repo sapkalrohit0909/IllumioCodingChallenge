@@ -11,6 +11,6 @@ if range of IP is given. It is from 192.168.1.1 to 192.167.2.5 and the input has
 I did IP matching by converting it to 32 bit integer and then just checking new IP is in range or not.
 
 # Teams
-1.Data Team
-2.PlatForm Team
-3.Policy Team
+1.Data Team <br />
+2.PlatForm Team <br />
+3.Policy Team <br />
