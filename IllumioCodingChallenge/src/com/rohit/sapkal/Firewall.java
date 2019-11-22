@@ -202,7 +202,6 @@ public class Firewall implements IFireWall{
 		}
         long result = 0;
         for (byte octet : octets) {
-        	System.out.println(octet & 0xff);
             result <<= 8;
             result |= octet & 0xff;
         }
