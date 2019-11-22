@@ -8,6 +8,7 @@ I have used TreeMaps to store the rules so that when new input comes in we can c
 In this code all corner condition.
 for eg.
 if range of IP is given. It is from 192.168.1.1 to 192.167.2.5 and the input has ip address of 192.168.1.154 then it should return true and This code works well in all corner conditions.
+I did IP matching by converting it to 32 bit integer and then just checking new IP is in range or not.
 
 # Teams
 1.Data Team
